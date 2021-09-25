@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Mahfuz Anam James",
+        "country": "Bangladesh",
+        "job": "singer",
+        "id": 1,
+        "image": "https://3.bp.blogspot.com/-BxgGwhRsCJ8/UO2qLRbJ2VI/AAAAAAAAAFw/8otkhFs7fQM/s1600/Mahfuzanamjames.jpg",
+        "salary": 20000
+    },
+    {
+        "name": "Tahsan Rahman",
+        "country": "Bangladesh",
+        "job": "singer",
+        "id": 2,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tahsankhan.jpg",
+        "salary": 20000
+    },
+    {
+        "name": "Nazmun Munira Nancy",
+        "country": "Bangladesh",
+        "job": "singer",
+        "id": 3,
+        "image": "https://2.bp.blogspot.com/_yCBnCOx1DIc/TLi0NWqeneI/AAAAAAAAAfQ/yxL0z38qymg/s1600/bangladeshi_singer_nancy.jpg",
+        "salary": 20000
+    },
+    {
+        "name": "Mahfuz Anam James",
+        "country": "Bangladesh",
+        "job": "singer",
+        "id": 4,
+        "image": "http://3.bp.blogspot.com/-BxgGwhRsCJ8/UO2qLRbJ2VI/AAAAAAAAAFw/8otkhFs7fQM/s1600/Mahfuzanamjames.jpg",
+        "salary": 20000
+    },
+    {
+        "name": "Mahfuz Anam James",
+        "country": "Bangladesh",
+        "job": "singer",
+        "id": 5,
+        "image": "http://3.bp.blogspot.com/-BxgGwhRsCJ8/UO2qLRbJ2VI/AAAAAAAAAFw/8otkhFs7fQM/s1600/Mahfuzanamjames.jpg",
+        "salary": 20000
+    },
+    {
+        "name": "Mahfuz Anam James",
+        "country": "Bangladesh",
+        "job": "singer",
+        "id": 6,
+        "image": "http://3.bp.blogspot.com/-BxgGwhRsCJ8/UO2qLRbJ2VI/AAAAAAAAAFw/8otkhFs7fQM/s1600/Mahfuzanamjames.jpg",
+        "salary": 20000
+    },
+    {
+        "name": "Mahfuz Anam James",
+        "country": "Bangladesh",
+        "job": "singer",
+        "id": 7,
+        "image": "http://3.bp.blogspot.com/-BxgGwhRsCJ8/UO2qLRbJ2VI/AAAAAAAAAFw/8otkhFs7fQM/s1600/Mahfuzanamjames.jpg",
+        "salary": 20000
+    },
+    {
+        "name": "Mahfuz Anam James",
+        "country": "Bangladesh",
+        "job": "singer",
+        "id": 8,
+        "image": "http://3.bp.blogspot.com/-BxgGwhRsCJ8/UO2qLRbJ2VI/AAAAAAAAAFw/8otkhFs7fQM/s1600/Mahfuzanamjames.jpg",
+        "salary": 20000
+    },
+    {
+        "name": "Mahfuz Anam James",
+        "country": "Bangladesh",
+        "job": "singer",
+        "id": 9,
+        "image": "http://3.bp.blogspot.com/-BxgGwhRsCJ8/UO2qLRbJ2VI/AAAAAAAAAFw/8otkhFs7fQM/s1600/Mahfuzanamjames.jpg",
+        "salary": 20000
+    }
+]
