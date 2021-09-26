@@ -2,7 +2,7 @@
     {
         "name": "Mahfuz Anam James",
         "country": "Bangladesh",
-        "job": "singer",
+        "job": "Singer",
         "id": 1,
         "image": "https://3.bp.blogspot.com/-BxgGwhRsCJ8/UO2qLRbJ2VI/AAAAAAAAAFw/8otkhFs7fQM/s1600/Mahfuzanamjames.jpg",
         "salary": 20000
@@ -10,7 +10,7 @@
     {
         "name": "Tahsan Rahman",
         "country": "Bangladesh",
-        "job": "singer",
+        "job": "Singer",
         "id": 2,
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tahsankhan.jpg",
         "salary": 60000
@@ -18,7 +18,7 @@
     {
         "name": "Nazmun Munira Nancy",
         "country": "Bangladesh",
-        "job": "singer",
+        "job": "Singer",
         "id": 3,
         "image": "https://2.bp.blogspot.com/_yCBnCOx1DIc/TLi0NWqeneI/AAAAAAAAAfQ/yxL0z38qymg/s1600/bangladeshi_singer_nancy.jpg",
         "salary": 90000
@@ -26,7 +26,7 @@
     {
         "name": "Justin Beiber",
         "country": "America",
-        "job": "singer",
+        "job": "Singer",
         "id": 4,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvhf8oDhvaOTu7fQWTFEw6-8pNWLkbg1fyOQ&usqp=CAU",
         "salary": 80000
@@ -34,7 +34,7 @@
     {
         "name": "Zayn Malik",
         "country": "England",
-        "job": "singer",
+        "job": "Singer",
         "id": 5,
         "image": "https://ichef.bbci.co.uk/news/640/cpsprodpb/173C2/production/_92207159_getty_zayn.jpg",
         "salary": 20000
@@ -42,7 +42,7 @@
     {
         "name": "Annie Marie",
         "country": "Englind",
-        "job": "singer",
+        "job": "Singer",
         "id": 6,
         "image": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/9/23/original/HLB_22012020__007_RGB_Spotify.jpg?w=400&dpr=2.6",
         "salary": 10000
@@ -50,7 +50,7 @@
     {
         "name": "Micheal Jackson",
         "country": "America",
-        "job": "singer",
+        "job": "Singer",
         "id": 7,
         "image": "https://img.discogs.com/6lJcw-8uxGj7qcg8xzLUWvWLOKE=/578x789/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-15885-1586013096-1429.jpeg.jpg",
         "salary": 50000
@@ -58,7 +58,7 @@
     {
         "name": "Chester Bennington",
         "country": "America",
-        "job": "singer",
+        "job": "Singer",
         "id": 8,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywTjWtcqOJI28R2ZOofVhBwgreSbngD-uP_qNFnu4LUCIQUZum9ucQqg7wZNiZDRkeP4&usqp=CAU",
         "salary": 70000
@@ -66,7 +66,7 @@
     {
         "name": "Arijit Singh",
         "country": "India",
-        "job": "singer",
+        "job": "Singer",
         "id": 9,
         "image": "https://starsunfolded.co/wp-content/uploads/2021/07/Arijit-Singh-780x470.jpg",
         "salary": 30000
