@@ -13,7 +13,7 @@
         "job": "singer",
         "id": 2,
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tahsankhan.jpg",
-        "salary": 20000
+        "salary": 60000
     },
     {
         "name": "Nazmun Munira Nancy",
@@ -21,54 +21,54 @@
         "job": "singer",
         "id": 3,
         "image": "https://2.bp.blogspot.com/_yCBnCOx1DIc/TLi0NWqeneI/AAAAAAAAAfQ/yxL0z38qymg/s1600/bangladeshi_singer_nancy.jpg",
-        "salary": 20000
+        "salary": 90000
     },
     {
-        "name": "Mahfuz Anam James",
-        "country": "Bangladesh",
+        "name": "Justin Beiber",
+        "country": "America",
         "job": "singer",
         "id": 4,
-        "image": "http://3.bp.blogspot.com/-BxgGwhRsCJ8/UO2qLRbJ2VI/AAAAAAAAAFw/8otkhFs7fQM/s1600/Mahfuzanamjames.jpg",
-        "salary": 20000
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvhf8oDhvaOTu7fQWTFEw6-8pNWLkbg1fyOQ&usqp=CAU",
+        "salary": 80000
     },
     {
-        "name": "Mahfuz Anam James",
-        "country": "Bangladesh",
+        "name": "Zayn Malik",
+        "country": "England",
         "job": "singer",
         "id": 5,
-        "image": "http://3.bp.blogspot.com/-BxgGwhRsCJ8/UO2qLRbJ2VI/AAAAAAAAAFw/8otkhFs7fQM/s1600/Mahfuzanamjames.jpg",
+        "image": "https://ichef.bbci.co.uk/news/640/cpsprodpb/173C2/production/_92207159_getty_zayn.jpg",
         "salary": 20000
     },
     {
-        "name": "Mahfuz Anam James",
-        "country": "Bangladesh",
+        "name": "Annie Marie",
+        "country": "Englind",
         "job": "singer",
         "id": 6,
-        "image": "http://3.bp.blogspot.com/-BxgGwhRsCJ8/UO2qLRbJ2VI/AAAAAAAAAFw/8otkhFs7fQM/s1600/Mahfuzanamjames.jpg",
-        "salary": 20000
+        "image": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/9/23/original/HLB_22012020__007_RGB_Spotify.jpg?w=400&dpr=2.6",
+        "salary": 10000
     },
     {
-        "name": "Mahfuz Anam James",
-        "country": "Bangladesh",
+        "name": "Micheal Jackson",
+        "country": "America",
         "job": "singer",
         "id": 7,
-        "image": "http://3.bp.blogspot.com/-BxgGwhRsCJ8/UO2qLRbJ2VI/AAAAAAAAAFw/8otkhFs7fQM/s1600/Mahfuzanamjames.jpg",
-        "salary": 20000
+        "image": "https://img.discogs.com/6lJcw-8uxGj7qcg8xzLUWvWLOKE=/578x789/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-15885-1586013096-1429.jpeg.jpg",
+        "salary": 50000
     },
     {
-        "name": "Mahfuz Anam James",
-        "country": "Bangladesh",
+        "name": "Chester Bennington",
+        "country": "America",
         "job": "singer",
         "id": 8,
-        "image": "http://3.bp.blogspot.com/-BxgGwhRsCJ8/UO2qLRbJ2VI/AAAAAAAAAFw/8otkhFs7fQM/s1600/Mahfuzanamjames.jpg",
-        "salary": 20000
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywTjWtcqOJI28R2ZOofVhBwgreSbngD-uP_qNFnu4LUCIQUZum9ucQqg7wZNiZDRkeP4&usqp=CAU",
+        "salary": 70000
     },
     {
-        "name": "Mahfuz Anam James",
-        "country": "Bangladesh",
+        "name": "Arijit Singh",
+        "country": "India",
         "job": "singer",
         "id": 9,
-        "image": "http://3.bp.blogspot.com/-BxgGwhRsCJ8/UO2qLRbJ2VI/AAAAAAAAAFw/8otkhFs7fQM/s1600/Mahfuzanamjames.jpg",
-        "salary": 20000
+        "image": "https://starsunfolded.co/wp-content/uploads/2021/07/Arijit-Singh-780x470.jpg",
+        "salary": 30000
     }
 ]

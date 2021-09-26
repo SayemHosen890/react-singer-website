@@ -1,5 +1,5 @@
-
 import React from 'react';
+import './Salary.css';
 
 const Salary = (props) => {
     const { salarys } = props;
@@ -8,11 +8,12 @@ const Salary = (props) => {
         total = total + product.salary;
     }
     return (
-        <div>
-            <h2>this is salary :{salarys.length}</h2>
-            <p>total:{total}</p>
+        <div className='salary-detail'>
+            <h4>Melody List</h4>
+            <p>Artist Added :{salarys.length}</p>
+            <p>Artist Cost:${total}</p>
             {
-                salarys.map(singerName => <li>key: {singerName.id} Name :{singerName.name}</li>)
+                salarys.map(singerName => <li className='singerName'>{singerName.name}</li>)
             }
         </div>
     );

@@ -1,10 +1,26 @@
-/* .display-singer{
-    background-color: aqua;
-}
-.display-singer{
-    display: flex;
-}
 .display-singer img{
-    width: 300px;
+    width: 250px;
     height: 300px;
-} */
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 14px;
+    text-align: center;
+}
+
+.button{
+    background-color: rgb(126, 72, 126);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.singer-all{
+    border: 1px solid rgb(59, 40, 109);
+    box-shadow: gray;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.details{
+    color: black;
+    text-align: center;
+}

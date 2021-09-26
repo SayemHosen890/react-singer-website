@@ -1,11 +1,15 @@
 
 import './App.css';
+import Header from './component/Header/Header';
 import Singers from './component/Singers/Singers';
 
 function App() {
   return (
     <div>
-      <Singers></Singers>
+      <Header></Header>
+      <div>
+        <Singers></Singers>
+      </div>
     </div>
   );
 }

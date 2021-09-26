@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import DisplaySinger from '../DisplaySinger/DisplaySinger';
 import Salary from '../Salary/Salary';
-import './Singers.css'
+import './Singers.css';
 
 const Singers = () => {
     const [singers, setSinger] = useState([])
@@ -16,10 +16,10 @@ const Singers = () => {
         const newSalary = [...salarys, product];
         setSalarys(newSalary);
     }
-
+    // console.log(singers)
     return (
-        <div className='singer-container'>
-            <div>
+        <div className='singer'>
+            <div className='row'>
                 {
                     singers.map(singer => <DisplaySinger key={singer.id} singer={singer} addSalary={addSalary}></DisplaySinger>)
                 }
