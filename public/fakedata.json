@@ -1,0 +1,30 @@
+[
+    {
+        "name": "JavaScript",
+        "intstructor": "Qutes",
+        "id": 1,
+        "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/X_Reasons_to_learn_Javascript.jpg",
+        "price": 2000
+    },
+    {
+        "name": "C++",
+        "intstructor": "Marque",
+        "id": 2,
+        "image": "https://c8.alamy.com/comp/2DAF0XX/c-inscription-against-laptop-and-code-background-learn-c-programming-language-computer-courses-training-2DAF0XX.jpg",
+        "price": 600
+    },
+    {
+        "name": "Python",
+        "intstructor": "Emili",
+        "id": 3,
+        "image": "https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg",
+        "price": 900
+    },
+    {
+        "name": "Ruby",
+        "intstructor": "John Doe",
+        "id": 4,
+        "image": "https://image.shutterstock.com/image-photo/programming-language-ruby-inscription-on-260nw-1445968487.jpg",
+        "price": 800
+    }
+]

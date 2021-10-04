@@ -1,10 +1,11 @@
 import React from 'react';
+import './NotFound.css';
 
 const NotFound = () => {
+
     return (
         <div>
-            <h1>404</h1>
-            <h3>The page you are looking for is not available</h3>
+            <img className='found' src="https://thumbs.dreamstime.com/b/error-not-found-page-icon-download-design-vector-black-background-108291331.jpg" alt="" />
         </div>
     );
 };

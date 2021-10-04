@@ -1,40 +1,44 @@
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
+import About from './components/About/About';
+import Contact from './components/Contact/Contact';
+import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
-import Inventory from './components/Inventory/Inventory';
+import Home from './components/Home/Home';
 import NotFound from './components/NotFound/NotFound';
-import OrderReview from './components/OrderReview/OrderReview';
-import PlaceOrder from './components/PlaceOrder/PlaceOrder';
-import Shop from './components/Shop/Shop';
+import Service from './components/Service/Service';
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Router>
         <Header></Header>
         <Switch>
           <Route exact path="/">
-            <Shop></Shop>
+            <Home></Home>
           </Route>
-          <Route path="/shop">
-            <Shop></Shop>
+          <Route path="/home">
+            <Home></Home>
           </Route>
-          <Route path="/review">
-            <OrderReview></OrderReview>
+          <Route path="/service">
+            <Service></Service>
           </Route>
-          <Route path="/inventory">
-            <Inventory></Inventory>
+          <Route path="/about">
+            <About></About>
           </Route>
-          <Route path="/placeorder">
-            <PlaceOrder></PlaceOrder>
+          <Route path="/contact">
+            <Contact></Contact>
           </Route>
           <Route path="*">
             <NotFound></NotFound>
           </Route>
         </Switch>
+        <Footer></Footer>
       </Router>
     </div>
   );
 }
 
 export default App;
+
+

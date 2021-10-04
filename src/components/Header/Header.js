@@ -1,17 +1,21 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import logo from '../../images/logo.png';
 import './Header.css'
+
 const Header = () => {
+
+    const activeStyle = {
+        fontWeight: "bold",
+        color: "red"
+    }
+
     return (
-        <div className='header'>
-            <img className='logo' src={logo} alt="" />
-            <nav>
-                <NavLink to="/shop">Shop</NavLink>
-                <NavLink to="/review">Order Review</NavLink>
-                <NavLink to="/inventory">Manage Inventory</NavLink>
-            </nav>
-        </div>
+        <nav className='p-3'>
+            <NavLink to="/home" activeStyle={activeStyle}>Home</NavLink>
+            <NavLink to="/service" activeStyle={activeStyle}>Services</NavLink>
+            <NavLink to="/about" activeStyle={activeStyle}>About Us</NavLink>
+            <NavLink to="/contact" activeStyle={activeStyle}>Contact Us</NavLink>
+        </nav>
     );
 };
 
